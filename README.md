@@ -14,3 +14,7 @@
         putDefault(HawkConfig.SEARCH_VIEW, 2);    // Text or Picture
 
     }
+
+## 接入p2p思路
+1. 先导入jar包
+2. 查看原http服务器写法，可直接做代理
